@@ -8,8 +8,8 @@ numbers.
 
 The analysis is carried on for England & Wales, France, Netherlands and Belgium.  
 
-**Last update**: 22-04-2020  
-**Data available up to**: 05-04-2020 (12-04-2020 for NL and E&W)
+**Last update**: 23-04-2020  
+**Data available up to**: 05-04-2020 (12-04-2020 for BE, NL, E&W)
 
 ## TL;DR : Results
 
@@ -22,6 +22,7 @@ The analysis is carried on for England & Wales, France, Netherlands and Belgium.
  | Netherlands    | 11-14      | 279.09              | 4832          | 2203                      | 54.41%            |
  | France         | 11-14      | 213.63              | 14327         | 7560                      | 47.23%            |
  | E&W            | 12-14      | 147.46              | 8853          | 4971                      | 43.85%            |
+where `per M` or `pM` stands for `per Million`.
 
 So, if the excess mortality estimate is deemed reliable, and attributable to COVID-19, it appears Belgium official numbers
 are closer to the reality (off by 26%), while other countries tend to underestimate by a factor 2 (42-54 %).  
@@ -38,6 +39,21 @@ Taking this into account and aligning numbers on the observed start of the death
 rate (280-290 per M), while France has a lower excess death rate (213 per M).  
 However, it must be noted that aligning weekly data like this is very hazardous, as the error margin for such an 
 alignment is of several days.
+
+### 23-04-2020 update (new Belgium data)
+With the latest belgian data (week 15 mortality), the summarized data yields :
+
+ | Country        | Weeks      | Excess deaths per M | Excess deaths | Official COVID-19 deaths  | Underestimation   |
+ | -------------  | ---------- | -------------       | -----         | -----                     | ----              |
+ | Belgium        | 11-15      | 473.13              | 5446          | 4479                      | 17.76%            |
+ | Netherlands    | 11-15      | 414.78              | 7182          | 3151                      | 56.13%            |
+
+(here compared only with Netherlands, only country with the same data at the same stage of the pandemic)
+
+Belgium sees both its overall mortality raising quicker, and its reporting accuracy getting even better (only 17% underestimation). 
+That explains the huge gap that has been observed and is growing, since Apr 8th, between Belgium official COVID-19 
+reports and other countries.   
+  
 
 ## Produced datasets
 

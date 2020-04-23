@@ -22,6 +22,7 @@ The analysis is carried on for England & Wales, France, Netherlands and Belgium.
  | Netherlands    | 11-14      | 279.09              | 4832          | 2203                      | 54.41%            |
  | France         | 11-14      | 213.63              | 14327         | 7560                      | 47.23%            |
  | E&W            | 12-14      | 147.46              | 8853          | 4971                      | 43.85%            |
+
 where `per M` or `pM` stands for `per Million`.
 
 So, if the excess mortality estimate is deemed reliable, and attributable to COVID-19, it appears Belgium official numbers

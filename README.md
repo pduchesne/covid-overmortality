@@ -18,7 +18,7 @@ The analysis is carried on for England & Wales, France, Netherlands and Belgium.
  
  | Country        | Weeks      | Excess deaths per M | Excess deaths | Official COVID-19 deaths  | Underestimation   |
  | -------------  | ---------- | -------------       | -----         | -----                     | ----              |
- | Belgium        | 11-14      | 280.71              | 3231          | 2373                      | 26.56%            |
+ | Belgium        | 11-14      | 281.62              | 3267          | 2373                      | 27.36%            |
  | Netherlands    | 11-14      | 279.09              | 4832          | 2203                      | 54.41%            |
  | France         | 11-14      | 213.63              | 14327         | 7560                      | 47.23%            |
  | E&W            | 12-14      | 147.46              | 8853          | 4971                      | 43.85%            |
@@ -46,7 +46,7 @@ With the latest belgian data (week 15 mortality), the summarized data yields :
 
  | Country        | Weeks      | Excess deaths per M | Excess deaths | Official COVID-19 deaths  | Underestimation   |
  | -------------  | ---------- | -------------       | -----         | -----                     | ----              |
- | Belgium        | 11-15      | 473.13              | 5446          | 4479                      | 17.76%            |
+ | Belgium        | 11-15      | 468.03              | 5388          | 4479                      | 16.87%            |
  | Netherlands    | 11-15      | 414.78              | 7182          | 3151                      | 56.13%            |
 
 (here compared only with Netherlands, only country with the same data at the same stage of the pandemic)
@@ -73,8 +73,8 @@ The data used to produce these aggregated datasets is of four kinds :
  * weekly or daily deaths statistics, from 2010 onwards [[1](#f1), [6](#f6), [8](#f8), [10](#f10), [12](#f12), 
  [14](#f14)]
  * yearly population, from 2010 onwards [[2](#f2), [3](#f3), [9](#f9)]
- * recent deaths counts from all causes, for 2020 and until now [[1](#f1), [7](#f7), [10](#f10), [12](#f12)]
- * Official COVID mortality [[4](#f4), [5](#f5), [11](#f11), [13](#f13), [15](#f15), [16](#f16)]
+ * recent deaths counts from all causes, for 2020 and until now [[1](#f1), [7](#f7), [10](#f10), [12](#f12), [16](#f16)]
+ * Official COVID mortality [[4](#f4), [5](#f5), [11](#f11), [13](#f13), [15](#f15), [17](#f17)]
 
 #### Remarks
  * The yearly population for 2020 was extrapolated from the 10 previous years.
@@ -164,7 +164,9 @@ The author shall not be held liable for misuse or damage resulting from the use 
    https://statbel.fgov.be, [Statbel license](https://statbel.fgov.be/sites/default/files/files/opendata/Licence%20open%20data_FR.pdf)
 15. <a id="f15"></a> [Dataset of mortality by date, age, sex, and region](https://epistat.sciensano.be/Data/COVID19BE_MORT.csv),
    [COVID-19 Monitoring - Sciensano](https://epistat.wiv-isp.be/covid/), [CC-BY equivalent license](https://epistat.wiv-isp.be/momo/#copyright) 
+16. <a id="f16"></a> [Evolution of the mortality rate in Belgium](https://statbel.fgov.be/en/visuals/mortality),
+    https://statbel.fgov.be, [Statbel license](https://statbel.fgov.be/sites/default/files/files/opendata/Licence%20open%20data_FR.pdf)
     
     #### Other   
-16. <a id="f16"></a> [Data on COVID-19 by Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), 
+17. <a id="f17"></a> [Data on COVID-19 by Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data), 
   https://ourworldindata.org, CC-BY

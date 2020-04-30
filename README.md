@@ -70,17 +70,19 @@ Netherlands (48.61%) and England&Wales (46.92%).
 It must be noted that, as of week 16, England&Wales are still on the rise, while other countries see a slowdown.
 
 ### Evolution of weekly excess deaths
-
-<div>
-    <a href="https://plotly.com/~pduchesne/79/?share_key=2N842WTTb2aa2ToY25oCYx" target="_blank" title="Weekly Mortality" style="display: block; text-align: center;"><img src="https://plotly.com/~pduchesne/79.png?share_key=2N842WTTb2aa2ToY25oCYx" alt="Weekly Mortality" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="pduchesne:79" sharekey-plotly="2N842WTTb2aa2ToY25oCYx" src="https://plotly.com/embed.js" async></script>
-</div>
-
+ 
+(click to go to interactive chart)
+<a href="https://plotly.com/~pduchesne/79/?share_key=2N842WTTb2aa2ToY25oCYx" target="_blank" title="Weekly Mortality">
+<img src="https://plotly.com/~pduchesne/79.png?share_key=2N842WTTb2aa2ToY25oCYx" />
+</a>
+  
+Raw data for this chart available in [weekly-summary.csv](./data/weekly-summary.csv)
 
 ## Produced datasets
 
 The results consist of several data files, published in this repository :
  * [summary.csv](./data/summary.csv) : a summarized view, starting on week 10, with key values as in the table above
+ * [weekly-summary.csv](./data/weekly-summary.csv) : weekly stats of excess deaths, since 01-01-2020
  * [weekly-raw-data.csv](./data/weekly-raw-data.csv)  : all weekly data from 2010 until today, for all countries, 
  absolute and normalized against population
  * [weekly-mortality-BE.csv](./data/weekly-mortality-BE.csv), [weekly-mortality-FR.csv](./data/weekly-mortality-FR.csv), 

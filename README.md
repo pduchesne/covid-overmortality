@@ -69,6 +69,14 @@ France has a lower cumulative excess mortality (36.16%), while Belgium has the h
 Netherlands (48.61%) and England&Wales (46.92%).  
 It must be noted that, as of week 16, England&Wales are still on the rise, while other countries see a slowdown.
 
+### Evolution of weekly excess deaths
+
+<div>
+    <a href="https://plotly.com/~pduchesne/79/?share_key=2N842WTTb2aa2ToY25oCYx" target="_blank" title="Weekly Mortality" style="display: block; text-align: center;"><img src="https://plotly.com/~pduchesne/79.png?share_key=2N842WTTb2aa2ToY25oCYx" alt="Weekly Mortality" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="pduchesne:79" sharekey-plotly="2N842WTTb2aa2ToY25oCYx" src="https://plotly.com/embed.js" async></script>
+</div>
+
+
 ## Produced datasets
 
 The results consist of several data files, published in this repository :

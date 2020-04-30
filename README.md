@@ -8,8 +8,8 @@ numbers.
 
 The analysis is carried on for England & Wales, France, Netherlands and Belgium.  
 
-**Last update**: 23-04-2020  
-**Data available up to**: 05-04-2020 (12-04-2020 for BE, NL, E&W)
+**Last update**: 30-04-2020  
+**Data available up to**: 19-04-2020 (12-04-2020 for FR)
 
 ## TL;DR : Results
 
@@ -54,7 +54,20 @@ With the latest belgian data (week 15 mortality), the summarized data yields :
 Belgium sees both its overall mortality raising quicker, and its reporting accuracy getting even better (only 17% underestimation). 
 That explains the huge gap that has been observed and is growing, since Apr 8th, between Belgium official COVID-19 
 reports and other countries.   
+
+### 30-04-2020 update 
+
+ | Country        | Weeks      | Excess deaths per M | Excess deaths | Excess deaths - % | Official COVID-19 deaths  | Underestimation   |
+ | -------------  | ---------- | -------------       | -----         | -----             | -----                     | ----              |
+ | Belgium        | 11-16      | 631.81              | 7273          | 52.86%            | 6204                      | 14.70%            |
+ | Netherlands    | 11-16      | 504.53              | 8736          | 48.61%            | 4029                      | 53.88%            |
+ | France         | 11-15      | 319.10              | 21400         | 36.16%            | 13832                     | 35.36%            |
+ | E&W            | 12-16      | 514.49              | 30886         | 46.92%            | 14760                     | 52.21%  
   
+Belgium and France improve their reporting accuracy.  
+France has a lower cumulative excess mortality (36.16%), while Belgium has the highest (52.86%), closely followed by 
+Netherlands (48.61%) and England&Wales (46.92%).  
+It must be noted that, as of week 16, England&Wales are still on the rise, while other countries see a slowdown.
 
 ## Produced datasets
 
